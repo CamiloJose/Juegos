@@ -1,2 +1,2 @@
 # Juegos
-Intentos de aprender a ahcer juegos
+Intentos de aprender a hacer juegos
